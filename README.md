@@ -1,70 +1,97 @@
-# Getting Started with Create React App
+<h1 align="center">
+  dev_media
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/wander27rodrigues/dev_Media?style=flat-square">
 
-## Available Scripts
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/wander27rodrigues/dev_Media?style=flat-square">
 
-In the project directory, you can run:
+  <a href="https://github.com/wander27rodrigues/menu_mobile/commits/main">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/wander27rodrigues/dev_Media?style=flat-square">
+  </a>
+  
+  
+<p align="center">
+  <a href="#-Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Licença">Licença</a>
+</p>
 
-### `yarn start`
+</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+> Status do Projeto: ⚠️  (produção)
 
-### `yarn test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `yarn build`
+## 💻 Sobre o projeto
+Esse é um projeto que realizei para estudo do react
+## ⚙️ Funcionalidades
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- [x] Componentes
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🛠 Tecnologias
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+As seguintes ferramentas foram usadas na construção do projeto:
 
-### `yarn eject`
+-   CSS
+-   REACT
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## 🔖 Layout
+<p align="center">
+  <img alt="tela" src="./public/tela.jpg" width="60%">
+</p>
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Tarefas 
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+-   [X] Criação de Estrutura
+-   [X] Add  layout
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+### ✔️ Pré-requisitos
 
-## Learn More
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com). 
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### :arrow_forward: Rodando 
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```bash
 
-### Code Splitting
+# Clone este repositório
+$ git clone git@github.com:Wander27Rodrigues/dev_Media.git
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+# Acesse a pasta do projeto no terminal/cmd
+$ cd dev_Media
 
-### Analyzing the Bundle Size
+# Instale as dependências
+$ npm install
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+# Execute a aplicação em modo de desenvolvimento
+$ npm run dev:server
 
-### Making a Progressive Web App
+```
+## 💪 Como contribuir no projeto
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+1. Faça um **fork** do projeto.
+2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
+3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
+4. Envie as suas alterações: `git push origin my-feature`
+> Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](./CONTRIBUTING.md)
 
-### Advanced Configuration
+## 📝 Licença
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Este projeto esta sobe a licença [MIT](./LICENSE).
 
-### Deployment
+### Autor
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+<a href="https://wander27rodrigues.github.io/#home">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/48796830?v=4" width="10%;" alt=""/>
+ <br />
 
-### `yarn build` fails to minify
+Feito com ❤️ por Wander Souza 👋🏽 Entre em contato!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[![Linkedin Badge](https://img.shields.io/badge/-Wander-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wander-souza/)](https://www.linkedin.com/in/wander-souza/) 
+[![Outlook Badge](https://img.shields.io/badge/-wanderrodrigues_@outlook.com-blue?style=flat-square&logo=Outlook&logoColor=white&link=mailto:wanderrodrigues_@outlook.com)](mailto:wanderrodrigues_@outlook.com)
